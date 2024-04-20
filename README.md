@@ -10,9 +10,6 @@ também deve ser capaz de exibir um relatório dos álbuns de um artista, o qual
 nome, ano, ou duração total do álbum. Um álbum pode ter a participação de vários artistas, sem
 distinção. Já a música pode possuir um ou mais autores e intérpretes (todos considerados artistas).
 
-### Resposta:
-![Exercicio1](./screenshots/exercicio1.png)
-
 ### Item 2)
 Deseja-se construir um sistema para gerenciar as informações de
 campeonatos de handebol, que ocorrem todo ano. Deseja-se saber nome, data de nascimento, gênero e
@@ -23,9 +20,6 @@ de listar as partidas já ocorridas e não ocorridas de um campeonato. O sistema
 de listar a tabela do campeonato, ordenando os times por classificação, que é calculada em primeiro
 lugar por saldo de vitórias e em segundo lugar por saldo de gols.
 
-### Resposta:
-![Exercicio2](./screenshots/exercicio2.png)
-
 ### Item 3)
 Deseja-se fazer um sistema de rede social. Nesta rede social, os usuários podem seguir e
 ser seguidos por outros usuários. O perfil do usuário deve permitir cadastrar nome, email, data de
@@ -33,9 +27,6 @@ nascimento, website, gênero, telefone e foto do perfil. Os usuários podem faze
 sua própria "linha do tempo" (timeline) da rede social, sendo que podem anexar também fotos às
 postagens. Uma foto é referenciada pela URI de seu local de armazenamento. As fotos podem ser
 organizadas em álbuns, sendo que cada álbum possui um título.
-
-### Resposta:
-![Exercicio1](./screenshots/exercicio3.png)
 
 ### Item 4)
 Deseja-se construir um sistema para gerenciar as informações dos participantes das
@@ -45,9 +36,6 @@ dividida em vários blocos de horários (por exemplo: um curso de HTML pode ocor
 sendo necessário armazenar o dia e os horários de início de fim do bloco daquele dia). Para cada
 participante, deseja-se cadastrar seu nome e email.
 
-### Resposta:
-![Exercicio1](./screenshots/exercicio4.png)
-
 ### Item 5)
 Deseja-se fazer um sistema para manter dados de cidades (nome, estado, website), onde
 cada cidade possui um ou mais restaurantes (nome, valor da refeição) e hotéis (nome, valor da diária).
@@ -55,9 +43,6 @@ Além disso, deseja-se registrar pacotes turísticos vendidos. Para registrar um
 escolher uma cidade, definir a data da viagem, o hotel de hospedagem e o número de dias de
 permanência. Deve-se também definir se no pacote vai estar incluso ou não um restaurante e, se sim,
 quantas refeições por dia serão consumidas.
-
-### Resposta:
-![Exercicio1](./screenshots/exercicio5.png)
 
 ---
 Daniel Dlc :wave: [Get in touch!](https://www.linkedin.com/in/daniel-louro-costa-dev/)
